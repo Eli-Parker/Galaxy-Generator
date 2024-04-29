@@ -1,4 +1,6 @@
 # Three.js Journey
+This code is a part of a lesson in the Three.JS Journey, which has been lightly modified to include some of my personal changes and menus.
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
